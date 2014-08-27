@@ -10,3 +10,6 @@ void foo()
 
 void bar()
 {}
+
+void new()
+{}
