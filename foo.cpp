@@ -4,3 +4,9 @@
 #
 #
 #
+
+void foo()
+{}
+
+void bar()
+{}
