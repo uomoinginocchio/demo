@@ -12,3 +12,4 @@ int main( int argc, const char* argv[] )
 
 
 // some comment at the end
+// check case: git don't create merge-commit when fast-forwarding is applied
